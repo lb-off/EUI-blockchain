@@ -1,0 +1,22 @@
+===============================
+= Deployed contract addresses =
+===============================
+
+
+Session 4
+=========
+SMC ERC20
+    Sepolia: 0x23E37BF2C586C4B2f78fc2e1E86937Af5A0F4Fa6
+    Goerli: 0x96c0382cddD205579Bd33211a80516E4186FAa18
+
+Session 6
+=========
+Sepolia:
+EuCoin: 0x986B5CbE5275dDfeDEF35f8F20A5De8832522614
+RopeCoin: 0x6cB953941a67d1896a3326C2b3d398d1D9778294
+AMM: 0x1c1FD9cd4f10eA2C1797AF84f7EDC0FD54E7F331
+
+Goerli:
+EuCoin: 0x00F18Ca1399D99b0c1b780d011111BD4162aaD3a
+RopeCoin: 0x82be57e53Cbf5A1ef75e9dd283EB21BB20cAB8f2
+AMM: 0xd521D649D0bf848d6aF096c73F7aE8B2d4647a25
