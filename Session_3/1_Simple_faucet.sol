@@ -12,8 +12,5 @@ contract Simple_Faucet {
         payable(msg.sender).transfer(amount); //pay the msg.sender (i.e. whoever triggered this execution) the amount
     }
     // function to accept any incoming payments in ether
-    // this function slightly changes from what was recorded in the video because if this function is called something
-    // else than receive() the interaction would be somewhat more complex. With this function, we can just send an
-    // amount directly to the contract address in Metamask.
     receive() external payable {}
 }
