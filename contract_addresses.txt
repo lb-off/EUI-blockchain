@@ -20,3 +20,9 @@ Goerli:
 EuCoin: 0x00F18Ca1399D99b0c1b780d011111BD4162aaD3a
 RopeCoin: 0x82be57e53Cbf5A1ef75e9dd283EB21BB20cAB8f2
 AMM: 0xd521D649D0bf848d6aF096c73F7aE8B2d4647a25
+
+
+Final Project
+=============
+	Sepolia: 0x1b15630fd66d12067e225cc5a77d227a3dfded17
+	Goerli: 0x7af83cf531aa3aaecb50ce959ce9680f29def1e3
