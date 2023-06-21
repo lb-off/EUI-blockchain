@@ -4,6 +4,10 @@ This is a Smart Contracts repository to be used for Blockchain training.
 
 It contains one main folder with smart contracts for each of the applied sessions.
 
+It also contains a `Final` folder with a Governance.sol smart contract.
+
+Addresses for deployed Smart contracts can be located in the `contract_addresses.txt` file at the root of the repo. 
+
 Distributed under the following license.
 
 GNU General Public License v3.0
