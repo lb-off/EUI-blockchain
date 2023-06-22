@@ -25,4 +25,4 @@ AMM: 0xd521D649D0bf848d6aF096c73F7aE8B2d4647a25
 Final Project
 =============
 	Sepolia: 0x1b15630fd66d12067e225cc5a77d227a3dfded17
-	Goerli: 0x7af83cf531aa3aaecb50ce959ce9680f29def1e3
+	Goerli: 0x84da7b70644a853b78049d60c74351f2f00df9f1
