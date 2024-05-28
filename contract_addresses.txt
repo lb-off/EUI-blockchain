@@ -1,4 +1,4 @@
-===============================44544
+===============================
 = Deployed contract addresses =
 ===============================
 
@@ -6,14 +6,14 @@
 Session 4
 =========
 EUC ERC20
-	Sepolia: 0x2eB178D9Ca80A8F18cc6fF3C369B62fd481dd367
+	Sepolia: 0x0Bc723A7bbaD0D04D56Ad3c7046044D3c91e26d8
 
 Session 6
 =========
 Sepolia:
-EuCoin: 0x986B5CbE5275dDfeDEF35f8F20A5De8832522614
-RopeCoin: 0x6cB953941a67d1896a3326C2b3d398d1D9778294
-AMM: 0x1c1FD9cd4f10eA2C1797AF84f7EDC0FD54E7F331
+EuCoin: 	0xDcd5f6FF32008Ac1393f2eCfcFB9B505c9D951Ef
+RopeCoin: 	0x7FD2eB17f60cE71C09Ac94d7503209Ff2bf1CD84
+AMM: 		0xC583c79614A121f2a3c6aE2c60EA15aE13e36fcD	
 
 Final Project
 =============
