@@ -20,7 +20,3 @@ Session 6
 Sepolia:
 EUI_Coin (governance token): 0xb3f750A220f44A90522a21CbE09f6A821DD04B50
 Governance Contract: 	     0xCC562c4317Dc69932a6CA0f4fC647A8b7CF91A4B
-
-Final Project
-=============
-	Sepolia: 0x1b15630fd66d12067e225cc5a77d227a3dfded17
