@@ -5,18 +5,19 @@
 
 Session 4
 =========
-EUC ERC20
-	Sepolia: 0x0Bc723A7bbaD0D04D56Ad3c7046044D3c91e26d8
+Sepolia:
+EUC ERC20:  0x0Bc723A7bbaD0D04D56Ad3c7046044D3c91e26d8
 
 Session 5
+=========
+Sepolia:
+EUI_Coin (governance token): 0xb3f750A220f44A90522a21CbE09f6A821DD04B50
+Governance Contract: 	     0xCC562c4317Dc69932a6CA0f4fC647A8b7CF91A4B
+
+Session 6
 =========
 Sepolia:
 EuCoin: 	0xDcd5f6FF32008Ac1393f2eCfcFB9B505c9D951Ef
 RopeCoin: 	0x7FD2eB17f60cE71C09Ac94d7503209Ff2bf1CD84
 AMM: 		0xC583c79614A121f2a3c6aE2c60EA15aE13e36fcD	
 
-Session 6
-=========
-Sepolia:
-EUI_Coin (governance token): 0xb3f750A220f44A90522a21CbE09f6A821DD04B50
-Governance Contract: 	     0xCC562c4317Dc69932a6CA0f4fC647A8b7CF91A4B
